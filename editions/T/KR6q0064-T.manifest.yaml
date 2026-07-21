@@ -19,17 +19,17 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6q0064_000-T.yaml, hash: 'sha256:b6530a2d03f183189377bd7c4ea7f11aba3a9c167e2b683e8e3893cc17e23a35'}
+  - {seq: 0, filename: KR6q0064_000-T.yaml, hash: 'sha256:a0ee272ed3928a003a60efb0153a8b3e5926ade89f6677de3153b2329f2a3379'}
   - {seq: 1, filename: KR6q0064_001-T.yaml, hash: 'sha256:ffc2a025cabf2930b3fcc9be6cb21a08790e9afd01c9a6cde0803006463ba729'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0064_000-T.markers.yaml, hash: 'sha256:2124227a4136886fd6d073ae2aec49db73b676038d94ab581de09e820864b768'}
+  - {seq: 0, role: markers, filename: assets/KR6q0064_000-T.markers.yaml, hash: 'sha256:174d4f42af2fc130cfd97f08ccb70788a9c1f13ea79265147406e0332e4f0acb'}
   - {seq: 1, role: markers, filename: assets/KR6q0064_001-T.markers.yaml, hash: 'sha256:7ff65bb2252d5b44f0b57f992bdfbea860a3434fe187a4f679acd64c7284ce7e'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0064_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 密菴禪師語錄序
@@ -815,4 +815,4 @@ table_of_contents:
   label: 塔銘
   type: mulu
   level: 1
-hash: sha256:66d4f8eb2a3ac1b8562cea89dbd7b815f9f11e8b9142cb14208740355cce9e1e
+hash: sha256:2312dfe3c8b7c1948ba7e14a7f4fd68558bae104f2cbf52ccccd00013738ddae

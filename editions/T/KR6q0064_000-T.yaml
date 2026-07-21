@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6q0064/t/v1/juan/0
 seq: 0
-front:
+body:
   text: 密菴禪師語錄序密菴禪師示寂之三年其得法真子住靈巖了悟以老師平生語一編屬鎡作序鎡切謂老師一見應菴便明大法破沙盆語盛播叢林此無可序者七鎮名山道滿天下一時龍象盡出鉗鎚此亦無可序者入對中宸闡揚般若深契上意益光宗門此亦無可序者然鎡叨承衣付義不容默謹為之序曰密菴語錄一帙總八十八板板二十行行二十字若於此薦得許親見密菴如或未然聽取一轉語淳熙十五年冬仲月九日參學張鎡序
   hash: sha256:bb44a5493cd2311ad3a0b9e74135244bbf7044caf2aeeb5904a48d5786faa901
   markers:
   - {type: 序, offset: 0, content: 密菴禪師語錄序, id: KR6q0064_T_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 密菴和尚語錄
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/T/T47/T47n1999.xml
     old_id: T47n1999
-hash: sha256:b6530a2d03f183189377bd7c4ea7f11aba3a9c167e2b683e8e3893cc17e23a35
+hash: sha256:a0ee272ed3928a003a60efb0153a8b3e5926ade89f6677de3153b2329f2a3379
